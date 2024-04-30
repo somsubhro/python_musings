@@ -3,7 +3,7 @@
 
 In this project I try out stuff and share my learning. This is a basic Python project. No installation necessary. Nothing fancy. 
 
-### NumberOfBillsAndCoins
+## NumberOfBillsAndCoins
 
 **The problem discussed in this directory is:**
 Given a sum of money compute the minimum number of bills and coins that equal that sum.
