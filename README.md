@@ -13,7 +13,7 @@ Coins: .25, .1, .05, .01.
 For example, given 6.35 the solution would be One 5, One 1, One .25, One .1.
 
 
-> `minimumNumberOfBillsAndCoins.py` file shows how **not to** implement this. 
+> [`minimumNumberOfBillsAndCoins.py`](https://github.com/somsubhro/python_musings/blob/main/NumberOfBillsAndCoins/minimumNumberOfBillsAndCoins.py) file shows how **not to** implement this. 
 
 This is the most brute force implementation. This implementation has several problems: 
 * The bills and coins denomination is a fixed array.
