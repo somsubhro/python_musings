@@ -20,3 +20,4 @@ This is the most brute force implementation. This implementation has several pro
 * Each position of the array is tightly coupled in code logic.
 * Implementation of the dictionary can be arguably better.
 * Does not conform to human understanding of bills and coins because the `target_sum` variable's default data type being binary floating point.
+* Considers that the denomination availability is infinite. That is considers there are infinite number of a bill or coin. 
