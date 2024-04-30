@@ -3,10 +3,9 @@
 # Bills: 20, 10, 5, 1,
 # Coins: .25, .1, .05, .01
 # For example, given 6.35 the solution would be One 5, One 1, One .25, One .1
-from decimal import *
 
 
-def calculate_min_denominations(target_sum: Decimal):
+def calculate_min_denominations(target_sum):
     available_bills_and_coins = [20, 10, 5, 1, 0.25, 0.1, 0.05, 0.01]
     twenty_occ = 0
     ten_occ = 0
