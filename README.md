@@ -1,7 +1,7 @@
 # Python musings
 ## Trying out stuff
 
-In this project I try out stuff and share my learning. This is a basic Python project. No installation necessary. Nothing fancy. 
+In this project, I try out stuff and share my learning. This is a basic Python project. No installation necessary. Nothing fancy. 
 
 ## NumberOfBillsAndCoins
 
